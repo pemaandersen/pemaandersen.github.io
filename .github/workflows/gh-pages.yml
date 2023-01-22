@@ -21,6 +21,10 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+
+      - name: Hugo Version
+        run: hugo version
+
       - name: Build
         run: hugo --minify
 
