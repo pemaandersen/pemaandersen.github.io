@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://pemaandersen.github.io/"
 languageCode = "en-us"
 title = "Revolve | Hugo Blog Template"
 theme = "revolve-hugo"
