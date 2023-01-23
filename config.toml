@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://pemaandersen.github.io/"
 languageCode = "en-us"
-title = "Revolve | Hugo Blog Template"
+title = "The Sunflower Stories"
 theme = "revolve-hugo"
 summaryLength = "10"
 paginate = 8
@@ -71,7 +71,7 @@ googleAnalitycsID = "Your ID"
 # contact form action url
 contactFormAction = "#" # contactr form works with formspree.io
 # copyright
-copyright = "@2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Built with 🤍"
 
   # Preloader
   [params.preloader]
@@ -92,25 +92,25 @@ bio = "I'm Liam, last year I decided to quit my job and travel the world. You ca
 signature = "images/liammason.png"
 
 ############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "facebook"
+# icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
 link = "#"
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "linkedin"
+# icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://github.com/pemaandersen/"
 
 ############################ newsletter #############################
 [params.newsletter]
