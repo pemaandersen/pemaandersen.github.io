@@ -26,20 +26,6 @@ Hola,
 
 I had the greatest time in Tamarindo. 
 
-
-## The trip
-
-## The Hotel
-We book our stay in the [Marielos Hotel](http://marielos.hotelsguanacaste.com/es/) just in front of the Beach.
-
-
-## The Beach
-
-### Ten things that you need in the beach 
-* asdfasdf
-* asdfaskfdj asdf
-* asdfasd asfd asdf asdf asdfasdf 
-
 ## What the cool kids are saying about tamarindo
 > This is the hotest spot in the world
 > 
@@ -50,7 +36,6 @@ We book our stay in the [Marielos Hotel](http://marielos.hotelsguanacaste.com/es
 | Marielos | 100€ | 2 stars |
 | The big kahuna hotel | 200€ | 5 stars |
 | Banana yellow house | 45 € | 2 stars |
-
 
 
 ![image](../../../images/costarica/image1.jpg)
