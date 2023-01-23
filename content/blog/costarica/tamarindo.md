@@ -16,7 +16,6 @@ tags:
   - "costa rica"
   - "tamarindo"
   - "travel"
-  - 
 
 # post type
 type: "featured"

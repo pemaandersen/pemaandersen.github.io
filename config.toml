@@ -85,10 +85,10 @@ copyright = "Built with 🤍"
 
 ########################### author [blog sidebar] ###############
 [params.author]
-name = "Liam Mason"
+name = "Pema Sonam Andersen"
 designation = "Travel Blogger"
 image = "images/author.jpg"
-bio = "I'm Liam, last year I decided to quit my job and travel the world. You can follow my journey on this blog!"
+bio = "I'm Pema, last year I decided to quit my job and travel the world. You can follow my journey on this blog!"
 signature = "images/liammason.png"
 
 ############################# social site ########################
@@ -102,10 +102,10 @@ title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
 link = "#"
 
-# [[params.social]]
-# title = "linkedin"
-# icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-# link = "#"
+[[params.social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"
 
 [[params.social]]
 title = "github"
