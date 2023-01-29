@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://pemaandersen.github.io/"
+baseURL = "https://sundaysloth.com/"
 languageCode = "en-us"
 title = "The Sunflower Stories"
 theme = "revolve-hugo"
